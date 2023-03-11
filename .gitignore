@@ -1,3 +1,17 @@
 .vscode
 node_modules/
 .DS_Store
+package-lock.json
+package.json
+01_helloWorld/helloWorld.js
+02_repeatString/repeatString.js
+03_reverseString/reverseString.js
+03_reverseString/reverseString.spec.js
+04_removeFromArray/removeFromArray.js
+04_removeFromArray/removeFromArray.spec.js
+05_sumAll/sumAll.js
+05_sumAll/sumAll.spec.js
+06_leapYears/leapYears.js
+06_leapYears/leapYears.spec.js
+07_tempConversion/tempConversion.js
+07_tempConversion/tempConversion.spec.js
